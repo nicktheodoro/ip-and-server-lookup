@@ -58,4 +58,4 @@ To retrieve server names associated with a host, use the following command:
 
 ## License
 
-###This project is licensed under the <strong><a href="https://mit-license.org/">MIT License</a></strong>.
+This project is licensed under the <strong><a href="https://mit-license.org/">MIT License</a></strong>.
