@@ -3,12 +3,17 @@
 A command-line application for retrieving IP addresses and server names from the internet.
 
 - [Installation](#installation)
+- [Prerequisites](#prerequisites)
 - [Usage](#usage)
   - [Command Line Options](#command-line-options)
   - [Commands](#commands)
     - [Retrieve IP addresses](#retrieve-ip-addresses)
     - [Retrieve server names](#retrieve-server-names)
 - [License](#license)
+
+## Prerequisites
+
+- Go (version 1.13 or higher) installed on your machine
 
 ## Installation
 
@@ -18,7 +23,7 @@ A command-line application for retrieving IP addresses and server names from the
   git clone https://github.com/nicktheodoro/ip-and-server-lookup.git
 ```
 
-2. Change into the project directory:
+2. Open a terminal and navigate to the project directory:
 
 ```shell
   cd ip-and-server-lookup
